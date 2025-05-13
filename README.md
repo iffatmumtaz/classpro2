@@ -1,6 +1,3 @@
-✅ Assignment 2: Complete Previous Assignments
-Ensure all previous assignments are completed and submitted on LinkedIn and the class submission form.
-
 ✅ Assignment 3: Problem-Solving Challenges
 🔹 Problem 1: Reverse a String
 Write a function that takes a string as input and returns the reversed string.
